@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dash">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dash_jar/dash.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

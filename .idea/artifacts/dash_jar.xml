@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="dash:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dash_jar</output-path>
+    <root id="archive" name="dash.jar">
+      <element id="module-output" name="dash" />
+    </root>
+  </artifact>
+</component>

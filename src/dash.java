@@ -31,7 +31,7 @@ public class dash {
         print("7> Twitter");
         String twitter = "http://twitter.com/search?q=";
         print("8> Youtube");
-        String youtube = "http://www.youtuhbe.com/results?search_query=";
+        String youtube = "http://www.youtube.com/results?search_query=";
         print("9> Amazon");
         String amazon = "http://www.amazon.com/s/field-keywords=";
         print("0> Wikipedia");
